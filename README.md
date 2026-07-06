@@ -12,8 +12,8 @@
 
 ```yaml
 profession: "Vehicle Inspector 🚗"
-study: "Sistem Informasi 💻"
-passion  : "Clean Code Enthusiast ⚙️"
+study: "Information Systems 💻"
+passion: "Clean Code Enthusiast ⚙️"
 motto    : "Koding with integrity, no shortcuts! 💪"
 ```
 
@@ -79,19 +79,19 @@ Fokusku:
 
 <div align="center">
   <a href="https://github.com/BotHunting/sim_dishub">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repository-card?username=BotHunting&repo=sim_dishub&theme=tokyonight" alt="SIM Dishub Project Card"/>
+    <img src="https://iili.io/qJaQeDB.th.png" alt="SIM Dishub Project Card"/>
   </a>
   <br/><br/>
   <a href="https://github.com/BotHunting/cctv">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repository-card?username=BotHunting&repo=cctv&theme=tokyonight" alt="CCTV Project Card"/>
+    <img src="https://iili.io/qJamVvs.th.png" alt="CCTV Project Card"/>
   </a>
   <br/><br/>
   <a href="https://github.com/BotHunting/hrm">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repository-card?username=BotHunting&repo=hrm&theme=tokyonight" alt="HRM Project Card"/>
+    <img src="https://iili.io/qJaPeEb.th.png" alt="HRM Project Card"/>
   </a>
   <br/><br/>
   <a href="https://github.com/BotHunting/Aplikasi-Hotel">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repository-card?username=BotHunting&repo=Aplikasi-Hotel&theme=tokyonight" alt="Hotel App Project Card"/>
+    <img src="https://images2.imgbox.com/f3/27/UIgNWUDL_o.png" alt="Hotel App Project Card"/>
   </a>
 
   <sup>
