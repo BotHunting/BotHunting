@@ -78,40 +78,21 @@ Fokusku:
 ## 🌟 Featured Projects
 
 <div align="center">
-  <table>
-    <tr>
-      <td align="center" width="50%">
-        <a href="https://github.com/BotHunting/sim_dishub">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=BotHunting&repo=sim_dishub&theme=tokyonight&hide_border=true" alt="SIM Dishub"/>
-          <br>
-          <sup><strong>🚦 Transportation Management System</strong></sup>
-        </a>
-      </td>
-      <td align="center" width="50%">
-        <a href="https://github.com/BotHunting/cctv">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=BotHunting&repo=cctv&theme=tokyonight&hide_border=true" alt="CCTV System"/>
-          <br>
-          <sup><strong>📹 Surveillance System</strong></sup>
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        <a href="https://github.com/BotHunting/hrm">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=BotHunting&repo=hrm&theme=tokyonight&hide_border=true" alt="HRM System"/>
-          <br>
-          <sup><strong>👥 Human Resource Management</strong></sup>
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://github.com/BotHunting/Aplikasi-Hotel">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=BotHunting&repo=Aplikasi-Hotel&theme=tokyonight&hide_border=true" alt="Hotel System"/>
-          <br>
-          <sup><strong>🏨 Hotel Management System</strong></sup>
-        </a>
-      </td>
-    </tr>
-  </table>
+  <a href="https://github.com/BotHunting/sim_dishub">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repository-card?username=BotHunting&repo=sim_dishub&theme=tokyonight" alt="SIM Dishub Project Card"/>
+  </a>
+  <br/><br/>
+  <a href="https://github.com/BotHunting/cctv">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repository-card?username=BotHunting&repo=cctv&theme=tokyonight" alt="CCTV Project Card"/>
+  </a>
+  <br/><br/>
+  <a href="https://github.com/BotHunting/hrm">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repository-card?username=BotHunting&repo=hrm&theme=tokyonight" alt="HRM Project Card"/>
+  </a>
+  <br/><br/>
+  <a href="https://github.com/BotHunting/Aplikasi-Hotel">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repository-card?username=BotHunting&repo=Aplikasi-Hotel&theme=tokyonight" alt="Hotel App Project Card"/>
+  </a>
 
   <sup>
     <em>💡 Click on any project card to learn more!</em>
@@ -141,9 +122,9 @@ Fokusku:
   
 ### 📈 GitHub Stats
 
-<p>
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=BotHunting&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
-  <img height="150" src="https://streak-stats.demolab.com/?user=BotHunting&theme=tokyonight" alt="GitHub Streak"/>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=BotHunting&theme=tokyonight" alt="Zubed's GitHub Stats"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=BotHunting&theme=tokyonight&layout=compact" alt="Zubed's Top Languages"/>
 </p>
 
 <i>"Koding itu bukan soal cepet-cepetan, tapi soal tanggung jawab."</i><br>
