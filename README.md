@@ -78,22 +78,32 @@ Fokusku:
 ## 🌟 Featured Projects
 
 <div align="center">
-  <a href="https://github.com/BotHunting/sim_dishub">
-    <img src="https://iili.io/qJaQeDB.th.png" alt="SIM Dishub Project Card"/>
-  </a>
-  <br/><br/>
-  <a href="https://github.com/BotHunting/cctv">
-    <img src="https://iili.io/qJamVvs.th.png" alt="CCTV Project Card"/>
-  </a>
-  <br/><br/>
-  <a href="https://github.com/BotHunting/hrm">
-    <img src="https://iili.io/qJaPeEb.th.png" alt="HRM Project Card"/>
-  </a>
-  <br/><br/>
-  <a href="https://github.com/BotHunting/Aplikasi-Hotel">
-    <img src="https://images2.imgbox.com/f3/27/UIgNWUDL_o.png" alt="Hotel App Project Card"/>
-  </a>
-
+  <table>
+    <tr>
+      <td align="center" width="50%">
+        <a href="https://github.com/BotHunting/sim_dishub">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=BotHunting&repo=sim_dishub&theme=tokyonight&hide_border=true" alt="SIM Dishub"/>
+        </a>
+      </td>
+      <td align="center" width="50%">
+        <a href="https://github.com/BotHunting/cctv">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=BotHunting&repo=cctv&theme=tokyonight&hide_border=true" alt="CCTV System"/>
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="50%">
+        <a href="https://github.com/BotHunting/hrm">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=BotHunting&repo=hrm&theme=tokyonight&hide_border=true" alt="HRM System"/>
+        </a>
+      </td>
+      <td align="center" width="50%">
+        <a href="https://github.com/BotHunting/Aplikasi-Hotel">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=BotHunting&repo=Aplikasi-Hotel&theme=tokyonight&hide_border=true" alt="Hotel System"/>
+        </a>
+      </td>
+    </tr>
+  </table>
   <sup>
     <em>💡 Click on any project card to learn more!</em>
   </sup>
