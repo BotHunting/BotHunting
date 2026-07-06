@@ -11,8 +11,8 @@
 ## 💫 About Me
 
 ```yaml
-profession: "Penguji Kendaraan Bermotor 🚗"
-study: "Mahasiswa Sistem Informasi 💻"
+profession: "Vehicle Inspector 🚗"
+study: "Sistem Informasi 💻"
 passion  : "Clean Code Enthusiast ⚙️"
 motto    : "Koding with integrity, no shortcuts! 💪"
 ```
@@ -40,7 +40,7 @@ Fokusku:
 </div>
 </details>
   </div>
-  <div style="flex: 0 0 300px; margin-left: 20px;">
+  <div style="flex: 0 0 300px; margin-mid: 20px;">
     <img width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding GIF"/>
   </div>
 </div>
@@ -82,14 +82,14 @@ Fokusku:
     <tr>
       <td align="center" width="50%">
         <a href="https://github.com/BotHunting/sim_dishub">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=BotHunting&repo=sim_dishub&theme=tokyonight&border_color=30363d" alt="SIM Dishub"/>
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=BotHunting&repo=sim_dishub&theme=tokyonight&hide_border=true" alt="SIM Dishub"/>
           <br>
           <sup><strong>🚦 Transportation Management System</strong></sup>
         </a>
       </td>
       <td align="center" width="50%">
         <a href="https://github.com/BotHunting/cctv">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=BotHunting&repo=cctv&theme=tokyonight&border_color=30363d" alt="CCTV System"/>
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=BotHunting&repo=cctv&theme=tokyonight&hide_border=true" alt="CCTV System"/>
           <br>
           <sup><strong>📹 Surveillance System</strong></sup>
         </a>
@@ -98,14 +98,14 @@ Fokusku:
     <tr>
       <td align="center">
         <a href="https://github.com/BotHunting/hrm">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=BotHunting&repo=hrm&theme=tokyonight&border_color=30363d" alt="HRM System"/>
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=BotHunting&repo=hrm&theme=tokyonight&hide_border=true" alt="HRM System"/>
           <br>
           <sup><strong>👥 Human Resource Management</strong></sup>
         </a>
       </td>
       <td align="center">
         <a href="https://github.com/BotHunting/Aplikasi-Hotel">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=BotHunting&repo=Aplikasi-Hotel&theme=tokyonight&border_color=30363d" alt="Hotel System"/>
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=BotHunting&repo=Aplikasi-Hotel&theme=tokyonight&hide_border=true" alt="Hotel System"/>
           <br>
           <sup><strong>🏨 Hotel Management System</strong></sup>
         </a>
@@ -143,7 +143,7 @@ Fokusku:
 
 <p>
   <img height="150" src="https://github-readme-stats.vercel.app/api?username=BotHunting&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
-  <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=BotHunting&theme=tokyonight" alt="GitHub Streak"/>
+  <img height="150" src="https://streak-stats.demolab.com/?user=BotHunting&theme=tokyonight" alt="GitHub Streak"/>
 </p>
 
 <i>"Koding itu bukan soal cepet-cepetan, tapi soal tanggung jawab."</i><br>
