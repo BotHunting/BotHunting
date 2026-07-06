@@ -11,8 +11,8 @@
 ```yaml
 profession: "Vehicle Inspector 🚗"
 study: "Information Systems 💻"
-passion:  "Clean Code Enthusiast ⚙️"
-motto    : "Koding with integrity, no shortcuts! 💪"
+passion: "Clean Code Enthusiast ⚙️"
+motto: "Koding with integrity, no shortcuts! 💪"
 ```
 
 <details>
@@ -26,6 +26,7 @@ Aku lagi dalemin Sistem Informasi, sambil tetap aktif ngembangin aplikasi buat b
 
 Proyek-proyekku kebanyakan lahir dari problem nyata, bukan sekadar tugas kampus. Semangatnya? Aplikasi harus **bermanfaat, jujur, dan orisinal.** Gak suka nyontek, suka ngulik.
 Fokusku:
+
 <ul>
   <li>🚦 <b>Transportation Systems</b></li>
   <li>🔧 <b>Vehicle Inspection Technologies</b></li>
@@ -37,11 +38,9 @@ Fokusku:
 
 </div>
 </details>
-  </div>
-  <div style="flex: 0 0 300px; margin-mid: 20px;">
-    <img width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding GIF"/>
-  </div>
-</div>
+<p align="center">
+  <img width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding GIF"/>
+</p>
 
 ---
 
