@@ -3,13 +3,6 @@
 # 🚀 Halo, Salam Kenal! I'm Zubed
 
 <p align="center">
-
-Semoga perubahan ini membuat profil GitHub Anda semakin menarik dan profesional. Jika ada hal lain yang ingin disesuaikan, beri tahu saya saja!
-
-<!--
-[PROMPT_SUGGESTION]Bisakah kamu menambahkan tautan ke setiap badge teknologi di bagian Tech Stack?[/PROMPT_SUGGESTION]
-[PROMPT_SUGGESTION]Tolong buatkan deskripsi singkat untuk setiap proyek di bagian "Featured Projects".[/PROMPT_SUGGESTION]
--->
   <img src="https://img.shields.io/badge/🔍_Profession-Vehicle_Inspector-2ea44f?style=for-the-badge" alt="Vehicle Inspector"/>
   <img src="https://img.shields.io/badge/📚_Study-Information_Systems-007ACC?style=for-the-badge" alt="Information Systems"/>
   <img src="https://img.shields.io/badge/⚡_Focus-Clean_Code-FF6B6B?style=for-the-badge" alt="Clean Code"/>
