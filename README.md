@@ -1,5 +1,3 @@
-<div align="center">
-  
 # 🚀 Halo, Salam Kenal! I'm Zubed
 
 <p align="center">
@@ -13,7 +11,7 @@
 ```yaml
 profession: "Vehicle Inspector 🚗"
 study: "Information Systems 💻"
-passion: "Clean Code Enthusiast ⚙️"
+passion:  "Clean Code Enthusiast ⚙️"
 motto    : "Koding with integrity, no shortcuts! 💪"
 ```
 
@@ -78,21 +76,32 @@ Fokusku:
 ## 🌟 Featured Projects
 
 <div align="center">
-  <a href="https://github.com/BotHunting/sim_dishub">
-    <img src="https://iili.io/qJaQeDB.th.png" alt="SIM Dishub Project Card"/>
-  </a>
-  <br/><br/>
-  <a href="https://github.com/BotHunting/cctv">
-    <img src="https://iili.io/qJamVvs.th.png" alt="CCTV System Project Card"/>
-  </a>
-  <br/><br/>
-  <a href="https://github.com/BotHunting/hrm">
-    <img src="https://iili.io/qJaPeEb.th.png" alt="HRM System Project Card"/>
-  </a>
-  <br/><br/>
-  <a href="https://github.com/BotHunting/Aplikasi-Hotel">
-    <img src="https://images2.imgbox.com/f3/27/UIgNWUDL_o.png" alt="Hotel System Project Card"/>
-  </a>
+  <table>
+    <tr>
+      <td align="center" width="50%">
+        <a href="https://github.com/BotHunting/sim_dishub">
+          <img src="https://iili.io/qJaQeDB.th.png" alt="SIM Dishub" width="300"/>
+        </a>
+      </td>
+      <td align="center" width="50%">
+        <a href="https://github.com/BotHunting/cctv">
+          <img src="https://iili.io/qJamVvs.th.png" alt="CCTV System" width="300"/>
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="50%">
+        <a href="https://github.com/BotHunting/hrm">
+          <img src="https://iili.io/qJaPeEb.th.png" alt="HRM System" width="300"/>
+        </a>
+      </td>
+      <td align="center" width="50%">
+        <a href="https://github.com/BotHunting/Aplikasi-Hotel">
+          <img src="https://images2.imgbox.com/f3/27/UIgNWUDL_o.png" alt="Hotel System" width="300"/>
+        </a>
+      </td>
+    </tr>
+  </table>
   <sup>
     <em>💡 Click on any project card to learn more!</em>
   </sup>
